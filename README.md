@@ -3,7 +3,7 @@ Hi there 👋
 
 Welcome to my GitHub profile! I'm Naveen Pentela, a Master of Information Technology graduate from Flinders University. I also hold a Bachelor's degree in Computer Science. Here, you'll find a showcase of my projects and contributions, highlighting my skills and experience in various aspects of IT.
 
-🔭 As part of my Masters I’m currently working on
+🔭 As part of my Masters I have worked on
 1.DevOps and Enterprise Systems Project: Implementing continuous integration and delivery, infrastructure as code, and monitoring and logging.
 2.Cloud and Distributed Computing Project: Developing scalable and fault-tolerant applications using cloud services.
 3.Data Engineering Projects: Conducting data preprocessing, model building, and visualization to support decision-making.
