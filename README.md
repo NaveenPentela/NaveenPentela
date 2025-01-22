@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm Naveen Pentela, a Master of Information Techno
 
  📫 How to reach me:
  -LinkedIn: https://www.linkedin.com/in/naveenpentela 
- -Email: naveenpentela7@gmail.com
+ -Email: npentela7@gmail.com
 
  😄 Pronouns:
  -He/Him
